@@ -35,7 +35,7 @@ setup(
     install_requires=[
         'six',
         'requests>=2.3.0',
-        'urllib3==1.24.1',
+        'urllib3>=1.24.1',
         'pyopenssl',
         'ndg-httpsclient',
         'pyasn1'
